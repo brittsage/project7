@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 
-h1 id=mainheadline {
+h1 #mainheadline {
 text-align: center;
 color: blue;
 }
